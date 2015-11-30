@@ -1,0 +1,17 @@
+{
+    "name": "kness/issue30",
+    "authors": [
+        {
+            "name": "Konr Ness",
+            "email": "kness@nerdery.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit" : "*"
+    },
+    "autoload": {
+        "files": [
+            "src/Thanksgiving/Thanksgiving.php"
+        ]
+    }
+}
